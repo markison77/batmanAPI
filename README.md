@@ -23,6 +23,9 @@ A fun Python project that interacts with a fictional Gotham City API to retrieve
 
 batmanAPI.py is a beginner-friendly Python application designed to simulate working with an API in a fun and memorable way. Instead of using generic data, this project focuses on Gotham City content.
 
+# Release Notes - Latest
+- Requires Python 3.8+
+- `requests` and `pandas` are not yet required to run the program
 
 ## Features
 
