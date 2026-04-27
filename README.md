@@ -84,6 +84,11 @@ The app sends a request to a fictional API and displays results in the terminal.
 
 Contributions are welcome.
 
+## Future Ideas
+
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker  
 
 ## License
 
